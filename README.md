@@ -19,9 +19,16 @@
    - npm start
 
 ## My AI Usage
-I used ChatGPT to:
-- Design REST API structure
-- Generate test scaffolding
-- Validate TDD flow
+### Tools Used
+- ChatGPT
 
-AI improved speed while I manually reviewed and refined all logic.
+### How I Used AI
+- Full website was built by the use of AI
+- Generated backend boilerplate
+- Assisted in writing Jest test cases
+- Helped structure React components
+
+### Reflection
+AI significantly accelerated development while I retained
+full control over design decisions, logic, and testing.
+
